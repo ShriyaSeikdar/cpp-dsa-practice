@@ -1,4 +1,5 @@
-C++ & DSA Practice 
+**C++ & DSA Practice **
+
 Hi! :)👋 
 
 This repository documents my journey of learning C++ and Data Structures & Algorithms from scratch.
